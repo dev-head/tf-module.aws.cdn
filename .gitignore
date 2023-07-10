@@ -1,0 +1,11 @@
+# IDE ignores
+.idea 
+.DS_Store
+*.sublime-*
+*.ide-plugin.xml
+
+# Functional ignores 
+!.gitkeep
+.terraform
+local.ini
+terraform.tfstate*
